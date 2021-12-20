@@ -520,30 +520,5 @@ footer {
 }
 
 
-@media screen and (max-width: 1008px) {
 
-
-    
-    .loader {
-        visibility: hidden;
-        opacity: 0;
-        animation: 0s nothing 0s ;
-    }
-    .loader img {
-        visibility: hidden;
-        opacity: 0;
-    }
-    .container_loader {
-        visibility: hidden;
-        opacity: 0;
-    }
-    .divcitos {
-        visibility: hidden;
-        opacity: 0;
-    }
-
-}
    
-
-@media (max-width: 800px) {
-}

@@ -353,7 +353,7 @@ div {
 }
 
 .div5 p {
-    color: rgb(0, 0, 0);
+    color: black;
     display: flex;
     grid-area: main;
     flex-direction: column;
